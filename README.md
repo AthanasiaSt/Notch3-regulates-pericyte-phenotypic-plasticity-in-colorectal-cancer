@@ -19,4 +19,4 @@ In-house raw data from this work are deposited in GEO with the following accessi
 
 -   scRNA-seq QC, Harmony integration, clustering, plotting: **Seurat v4**
 
-<sub>For more details on our methodology, see the corresponding manuscript.:...
+<sub>For more details on our methodology, see the corresponding manuscript.
